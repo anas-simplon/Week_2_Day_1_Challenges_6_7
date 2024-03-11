@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710189755 source:c:\users\simplon\desktop\simplon\week_1\tri_par_selection_int\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710190346 source:c:\users\simplon\desktop\simplon\week_1\pairs_impairs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
